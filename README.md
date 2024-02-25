@@ -1,6 +1,6 @@
 # Magic 8 Ball
 
-Welcome to the Magic 8 Ball project! This project is a simple Python program that mimics the functionality of a Magic 8 Ball, providing random answers to yes-or-no questions.
+Welcome to the Magic 8 Ball project! This project is a simple Javascript program that mimics the functionality of a Magic 8 Ball, providing random answers to yes-or-no questions.
 
 ## Description
 
